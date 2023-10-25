@@ -1,5 +1,5 @@
 <?php
-$nilai = 1;
+$nilai = 90;
 
 switch (true){
     case ($nilai >=90 && $nilai <= 100):
